@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookies": "^0.7.1",
+    "express": "^4.16.2",
+    "markdown": "^0.5.0",
+    "mongoose": "^5.0.5",
+    "swig": "^1.4.2"
+  },
+  "name": "blog_system",
+  "version": "0.0.1",
+  "description": "Node.js+Express+Mongodb+Mongoose",
+  "main": "app.js",
+  "repository": "git@github.com:Calerme/bolg_system.git",
+  "author": "Caler",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
